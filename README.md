@@ -17,40 +17,54 @@ Nov 2011 - Present
 Latin and Lean Cookbook with Sandra Fite  
 Dallas, Texas   
 Aug 2011 - July 2015  
-Contracted to help create websites and a high-end cookbook for Fite’s multiple projects.  
+* Contracted to help create websites and a high-end cookbook for Fite’s multiple projects.    
 
 **Reading and Writing Tutor**  
 Lindsley Park Community School   |   Dallas, Texas   |   Nov 2011 - Jan 2012
-Invited to be a writing tutor for six third-graders preparing them for essay entrance exams to other magnet elementary schools.
-Volunteer reading tutor for two ESL second graders.
+* Invited to be a writing tutor for six third-graders preparing them for essay entrance exams to other magnet elementary schools.
+Volunteer reading tutor for two ESL second graders.  
 
-**Photography and Multimedia Intern**
-Advocate Magazine   |   Dallas, Texas   |   July 2011 - Nov 2011
-Produced weekly multimedia videos for Advocate’s hyper-local, monthly print and online magazines that cover the five major neighborhoods of Dallas.
-Continue to maintain relationships with my editor, Keri Mitchell, and photo editor, Can Turkyilmaz.
+**Photography and Multimedia Intern**  
+Advocate Magazine  
+Dallas, Texas  
+July 2011 - Nov 2011  
+* Produced weekly multimedia videos for Advocate’s hyper-local, monthly print and online magazines that cover the five major neighborhoods of Dallas.   
+* Continue to maintain relationships with my editor, Keri Mitchell, and photo editor, Can Turkyilmaz.  
 
-EDUCATION
-**Western Washington University**  
-Bachelor of Arts   |   Bellingham, Washington   |   2010
-Major in Journalism, Visual Journalism Sequence
-Minor in Sociology
+EDUCATION   
+**Western Washington University**    
+Bachelor of Arts  
+Bellingham, Washington  
+2010  
+* Major in Journalism, Visual Journalism Sequence  
+*  Minor in Sociology  
 
-CONTINUING EDUCATION AND TRAINING
+CONTINUING EDUCATION AND TRAINING  
 **Volunteer events with Apple** 
-Apple Retail Volunteer  |   Seattle, Washington   |   2015 - Present 
-Washington Trails Association, KEXP radio, Clean Water Foundation, Red Cross (Missing Maps Project). 
+Apple Retail Volunteer  
+Seattle, Washington  
+2015 - Present  
+* Washington Trails Association, KEXP radio, Clean Water Foundation, Red Cross (Missing Maps Project).  
 
-**CPR/First Aid Certified**
-Heartsaver First Aid CPR AED from CPR Seattle  |   Seattle, Washington   |   Dec. 10, 2015
+**CPR/First Aid Certified**  
+Heartsaver First Aid CPR AED from CPR Seattle  
+Seattle, Washington  
+Dec. 10, 2015  
 
-Reading Tutor
-Roosevelt Elementary   |   Bellingham, Washington   |   2010 - 2011
-Volunteer reading coach for 15 second-grade students.
-Worked closely with the AmeriCorps supervisor helping to improve the program.
+**Reading Tutor**  
+Roosevelt Elementary    
+Bellingham, Washington   
+2010 - 2011   
+* Volunteer reading coach for 15 second-grade students.  
+* Worked closely with the AmeriCorps supervisor helping to improve the program.  
 
-Youth Counselor
-Reach Camp   |   Tacoma, Washington   |   Sept 2010
+**Youth Counselor**  
+Reach Camp  
+Tacoma, Washington  
+Sept 2010  
 
-Jeopardy Magazine Art Show Member
-Western Washington University   |    Bellingham, Washington   |   2010
-My submitted photograph, along with only three others, was selected for the 2010 Jeopardy webzine.
+**Jeopardy Magazine Art Show Member**
+Western Washington University  
+Bellingham, Washington  
+2010  
+* My submitted photograph, along with only three others, was selected for the 2010 Jeopardy webzine.  
