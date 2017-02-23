@@ -2,7 +2,6 @@ Madeline-Stevens-Resume
 
 #####**Madeline Rose Stevens**
 
-
 PROFESSIONAL EXPERIENCE 
 
 Apple Creative Trainer  
