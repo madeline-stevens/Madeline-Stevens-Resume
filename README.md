@@ -7,7 +7,7 @@ PROFESSIONAL EXPERIENCE
 <p>Apple Retail Stores</p>   
 <p>Dallas, Texas and Seattle, Washington<p/>
 <p>Nov 2011 - Present</p> 
-<p>* Training my peers in new Apple software and store processes within a positive feedback culture.
+* Training my peers in new Apple software and store processes within a positive feedback culture.
 * Organizing private workshops for business customers which involves coordinating with the scheduling and business teams.
 * Consistently the highest performing trainer, out of a team of 14, as ranked by customers attending workshops, one on one training and technical support.
 * Hand-selected by my peers to conduct business workshops, field trips, and bigger education events like ConnectEd, a President Obama initiative.</p>
