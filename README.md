@@ -2,9 +2,9 @@ Madeline-Stevens-Resume
 
 #####**Madeline Rose Stevens**
 
-PROFESSIONAL EXPERIENCE 
-<p>**Apple Creative Trainer**</p>
-<p>Apple Retail Stores</p>   
+PROFESSIONAL EXPERIENCE  
+**Apple Creative Trainer**  
+Apple Retail Stores     
 <p>Dallas, Texas and Seattle, Washington<p/>
 <p>Nov 2011 - Present</p> 
 * Training my peers in new Apple software and store processes within a positive feedback culture.
