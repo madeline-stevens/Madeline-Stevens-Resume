@@ -5,20 +5,20 @@ Madeline-Stevens-Resume
 PROFESSIONAL EXPERIENCE  
 **Apple Creative Trainer**  
 Apple Retail Stores     
-<p>Dallas, Texas and Seattle, Washington<p/>
-<p>Nov 2011 - Present</p> 
+Dallas, Texas and Seattle, Washington  
+Nov 2011 - Present   
 * Training my peers in new Apple software and store processes within a positive feedback culture.
 * Organizing private workshops for business customers which involves coordinating with the scheduling and business teams.
 * Consistently the highest performing trainer, out of a team of 14, as ranked by customers attending workshops, one on one training and technical support.
-* Hand-selected by my peers to conduct business workshops, field trips, and bigger education events like ConnectEd, a President Obama initiative.</p>
+* Hand-selected by my peers to conduct business workshops, field trips, and bigger education events like ConnectEd, a President Obama initiative.  
 
-<p>Creative Project Manager</p>
-<p>Latin and Lean Cookbook with Sandra Fite</p>
-<p>Dallas, Texas</p> 
-<p>Aug 2011 - July 2015</p>
-<p>Contracted to help create websites and a high-end cookbook for Fite’s multiple projects.</p>
+Creative Project Manager  
+Latin and Lean Cookbook with Sandra Fite  
+Dallas, Texas   
+Aug 2011 - July 2015  
+Contracted to help create websites and a high-end cookbook for Fite’s multiple projects.  
 
-<p>Reading and Writing Tutor</p>
+Reading and Writing Tutor  
 Lindsley Park Community School   |   Dallas, Texas   |   Nov 2011 - Jan 2012
 Invited to be a writing tutor for six third-graders preparing them for essay entrance exams to other magnet elementary schools.
 Volunteer reading tutor for two ESL second graders.
