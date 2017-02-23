@@ -13,10 +13,10 @@ Nov 2011 - Present
 * Chosen to be a Global Volunteer Champion to help organize volunteer events for market employees.  
 * Hand-selected by my peers to conduct business workshops, field trips, and bigger education events like ConnectEd, a President Obama initiative.  
 
-**Creative Project Manager** 
-Latin and Lean Cookbook with Sandra Fite  
-Dallas, Texas   
-Aug 2011 - July 2015  
+**Creative Project Manager**   
+Latin and Lean Cookbook with Sandra Fite    
+Dallas, Texas     
+Aug 2011 - July 2015    
 * Contracted to help create websites and a high-end cookbook for Fite’s multiple projects.    
 
 **Reading and Writing Tutor**  
@@ -40,7 +40,7 @@ Bellingham, Washington
 *  Minor in Sociology  
 
 CONTINUING EDUCATION AND TRAINING  
-**Volunteer events with Apple** 
+**Volunteer events with Apple**   
 Apple Retail Volunteer  
 Seattle, Washington  
 2015 - Present  
@@ -63,7 +63,7 @@ Reach Camp
 Tacoma, Washington  
 Sept 2010  
 
-**Jeopardy Magazine Art Show Member**
+**Jeopardy Magazine Art Show Member**  
 Western Washington University  
 Bellingham, Washington  
 2010  
