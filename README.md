@@ -4,8 +4,8 @@ Madeline-Stevens-Resume
 
 PROFESSIONAL EXPERIENCE 
 
-Apple Creative Trainer  
-Apple Retail Stores   |   Dallas, Texas and Seattle, Washington   |   Nov 2011 - Present
+**Apple Creative Trainer**
+<p>Apple Retail Stores</p>   |   Dallas, Texas and Seattle, Washington   |   Nov 2011 - Present
 Training my peers in new Apple software and store processes within a positive feedback culture.
 Organizing private workshops for business customers which involves coordinating with the scheduling and business teams.
 Consistently the highest performing trainer, out of a team of 14, as ranked by customers attending workshops, one on one training and technical support.
