@@ -3,14 +3,14 @@ Madeline-Stevens-Resume
 #####**Madeline Rose Stevens**
 
 PROFESSIONAL EXPERIENCE 
-**Apple Creative Trainer**
+<p>**Apple Creative Trainer**</p>
 <p>Apple Retail Stores</p>   
 <p>Dallas, Texas and Seattle, Washington<p/>
 <p>Nov 2011 - Present</p> 
-Training my peers in new Apple software and store processes within a positive feedback culture.
+<p>Training my peers in new Apple software and store processes within a positive feedback culture.
 Organizing private workshops for business customers which involves coordinating with the scheduling and business teams.
 Consistently the highest performing trainer, out of a team of 14, as ranked by customers attending workshops, one on one training and technical support.
-Hand-selected by my peers to conduct business workshops, field trips, and bigger education events like ConnectEd, a President Obama initiative. 
+Hand-selected by my peers to conduct business workshops, field trips, and bigger education events like ConnectEd, a President Obama initiative.</p>
 
 Creative Project Manager 
 Latin and Lean Cookbook with Sandra Fite   |   Dallas, Texas   |   Aug 2011 - July 2015
