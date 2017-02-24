@@ -48,11 +48,6 @@ Seattle, Washington
 2015 - Present  
 * Washington Trails Association, KEXP radio, Clean Water Foundation, Red Cross (Missing Maps Project).  
 
-**CPR/First Aid Certified**  
-Heartsaver First Aid CPR AED from CPR Seattle  
-Seattle, Washington  
-Dec. 10, 2015  
-
 **Reading Tutor**  
 Roosevelt Elementary    
 Bellingham, Washington   
@@ -64,9 +59,3 @@ Bellingham, Washington
 Reach Camp  
 Tacoma, Washington  
 Sept 2010  
-
-**Jeopardy Magazine Art Show Member**  
-Western Washington University  
-Bellingham, Washington  
-2010  
-* My submitted photograph, along with only three others, was selected for the 2010 Jeopardy webzine.  
