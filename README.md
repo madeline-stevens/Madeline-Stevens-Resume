@@ -24,7 +24,7 @@ Lindsley Park Community School
 Dallas, Texas  
 Nov 2011 - Jan 2012  
 * Invited to be a writing tutor for six third-graders preparing them for essay entrance exams to other magnet elementary schools.
-Volunteer reading tutor for two ESL second graders.  
+* Volunteer reading tutor for two ESL second graders.  
 
 **Photography and Multimedia Intern**  
 Advocate Magazine  
