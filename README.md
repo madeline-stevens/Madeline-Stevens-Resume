@@ -37,6 +37,7 @@ Dallas, Texas
 July 2011 - Nov 2011  
 * Produced weekly multimedia videos for Advocate’s hyper-local, monthly print and online magazines that cover the five major neighborhoods of Dallas.   
 * Continue to maintain relationships with my editor, Keri Mitchell, and photo editor, Can Turkyilmaz.  
+
 ==========
 EDUCATION   
 **Western Washington University**    
@@ -45,6 +46,7 @@ Bellingham, Washington
 2010  
 * Major in Journalism, Visual Journalism Sequence  
 *  Minor in Sociology  
+
 ==========
 CONTINUING EDUCATION AND TRAINING  
 **Volunteer events with Apple**   
