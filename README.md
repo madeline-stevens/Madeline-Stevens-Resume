@@ -1,10 +1,9 @@
 
 **Madeline Rose Stevens**  
-921 19th Ave E  
-Seattle, WA 98112  
 
-(206)498-4786  
-stevensm1987@gmail.com    
+(206)498-4786    
+stevensm1987@gmail.com  
+Seattle, WA  
 
 ==========
 PROFESSIONAL EXPERIENCE  
