@@ -2,7 +2,9 @@
 **Madeline Rose Stevens**  
 
 (206)498-4786    
-stevensm1987@gmail.com  
+stevensm1987@gmail.com 
+madelinerstevens.com
+[github](https://github.com/madhubs)
 Seattle, WA  
 
 ==========
@@ -24,7 +26,7 @@ Dallas, Texas
 * Contracted to help create websites and a high-end cookbook for Fite’s multiple projects.    
 
 **Reading and Writing Tutor**    
-Lindsley Park Community School  
+[Lindsley Park Community School](https://lumineducation.org/schools-lindsley-park/)  
 Dallas, Texas  
 2011 - 2012  
 * Invited to be a writing tutor for six third-graders preparing them for essay entrance exams to other magnet elementary schools.
