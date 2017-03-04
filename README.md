@@ -52,7 +52,7 @@ Bellingham, Washington
 =================================
 CONTINUING EDUCATION AND TRAINING  
 **Active member of Seattle city and town hall meetings**    
-Coucilmemeber Kshama Sawant  
+Coucilmember Kshama Sawant  
 Seattle, Washington  
 * Taking part in Sawant's Build 1,000 Homes Initiative  
   
