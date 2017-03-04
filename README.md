@@ -3,8 +3,8 @@
 
 (206)498-4786    
 stevensm1987@gmail.com 
-madelinerstevens.com
-[github](https://github.com/madhubs)
+madelinerstevens.com  
+[github](https://github.com/madhubs)  
 Seattle, WA  
 
 ==========
