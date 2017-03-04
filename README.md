@@ -50,7 +50,8 @@ Bellingham, Washington
 *  Minor in Sociology  
 
 =================================
-CONTINUING EDUCATION AND TRAINING  
+CONTINUING EDUCATION AND TRAINING
+**Active member of city and town hall meetings
 **Volunteer events with Apple**   
 Apple Retail Volunteer  
 Seattle, Washington  
@@ -68,3 +69,7 @@ Bellingham, Washington
 Reach Camp  
 Tacoma, Washington  
 Sept 2010  
+
+**Publicity Manager**  
+Women's Day March 2009  
+Bellingham, Washington  
