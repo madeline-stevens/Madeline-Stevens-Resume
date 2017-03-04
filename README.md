@@ -6,7 +6,7 @@ Seattle, WA 98112
 (206)498-4786  
 stevensm1987@gmail.com    
 
---------------
+-----
 PROFESSIONAL EXPERIENCE  
 **Apple Creative Trainer**  
 Apple Retail Stores     
