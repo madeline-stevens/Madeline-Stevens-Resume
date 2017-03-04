@@ -50,7 +50,7 @@ Bellingham, Washington
 *  Minor in Sociology  
 
 =================================
-CONTINUING EDUCATION AND TRAINING
+CONTINUING EDUCATION AND TRAINING  
 **Active member of Seattle city and town hall meetings**    
 Coucilmemeber Kshama Sawant  
 Seattle, Washington  
