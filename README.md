@@ -1,5 +1,6 @@
 
-**Madeline Rose Stevens**  
+**Madeline Rose Stevens** 
+-------------------------
 
 (206)498-4786    
 stevensm1987@gmail.com  
@@ -7,7 +8,7 @@ stevensm1987@gmail.com
 [GitHub](https://github.com/madhubs)  
 Seattle, WA  
 
-==========
+=======================
 PROFESSIONAL EXPERIENCE  
 **Apple Creative Trainer**  
 Apple Retail Stores     
@@ -39,7 +40,7 @@ Dallas, Texas
 * Produced weekly multimedia videos for Advocate’s hyper-local, monthly print and online magazines that cover the five major neighborhoods of Dallas.   
 * Continue to maintain relationships with my editor, Keri Mitchell, and photo editor, Can Turkyilmaz.  
 
-==========
+=========
 EDUCATION   
 **Western Washington University**    
 Bachelor of Arts  
@@ -48,7 +49,7 @@ Bellingham, Washington
 * Major in Journalism, Visual Journalism Sequence  
 *  Minor in Sociology  
 
-==========
+=================================
 CONTINUING EDUCATION AND TRAINING  
 **Volunteer events with Apple**   
 Apple Retail Volunteer  
