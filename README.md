@@ -6,7 +6,7 @@
 stevensm1987@gmail.com  
 [madelinerstevens.com](www.madelinerstevens.com)  
 [GitHub](https://github.com/madhubs)  
-Seattle, WA  
+Seattle, Washington  
 
 =======================
 PROFESSIONAL EXPERIENCE  
@@ -51,7 +51,12 @@ Bellingham, Washington
 
 =================================
 CONTINUING EDUCATION AND TRAINING
-**Active member of city and town hall meetings
+**Active member of Seattle city and town hall meetings**    
+Coucilmemeber Kshama Sawant  
+Seattle, Washington  
+* Taking part in Sawant's Build 1,000 Homes Initiative  
+  
+
 **Volunteer events with Apple**   
 Apple Retail Volunteer  
 Seattle, Washington  
