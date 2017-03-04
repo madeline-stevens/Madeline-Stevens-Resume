@@ -10,7 +10,7 @@ PROFESSIONAL EXPERIENCE
 **Apple Creative Trainer**  
 Apple Retail Stores     
 Dallas, Texas and Seattle, Washington  
-Nov 2011 - Present   
+2011 - Present   
 * Training my peers in new Apple software and store processes within a positive feedback culture.
 * Organizing private workshops for business customers which involves coordinating with the scheduling and business teams.
 * Consistently the highest performing trainer, out of a team of 14, as ranked by customers attending workshops, one on one training and technical support.
@@ -20,20 +20,20 @@ Nov 2011 - Present
 **Creative Project Manager**   
 Latin and Lean Cookbook with Sandra Fite    
 Dallas, Texas     
-Aug 2011 - July 2015    
+2011 - 2015    
 * Contracted to help create websites and a high-end cookbook for Fite’s multiple projects.    
 
 **Reading and Writing Tutor**    
 Lindsley Park Community School  
 Dallas, Texas  
-Nov 2011 - Jan 2012  
+2011 - 2012  
 * Invited to be a writing tutor for six third-graders preparing them for essay entrance exams to other magnet elementary schools.
 * Volunteer reading tutor for two ESL second graders.  
 
 **Photography and Multimedia Intern**  
 Advocate Magazine  
 Dallas, Texas  
-July 2011 - Nov 2011  
+2011 - 2012  
 * Produced weekly multimedia videos for Advocate’s hyper-local, monthly print and online magazines that cover the five major neighborhoods of Dallas.   
 * Continue to maintain relationships with my editor, Keri Mitchell, and photo editor, Can Turkyilmaz.  
 
