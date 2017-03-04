@@ -2,7 +2,7 @@
 **Madeline Rose Stevens**  
 
 (206)498-4786    
-stevensm1987@gmail.com 
+stevensm1987@gmail.com  
 madelinerstevens.com  
 [github](https://github.com/madhubs)  
 Seattle, WA  
