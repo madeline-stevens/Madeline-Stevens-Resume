@@ -31,7 +31,7 @@ Dallas, Texas
 * Volunteer reading tutor for two ESL second graders.  
 
 **Photography and Multimedia Intern**  
-Advocate Magazine  
+[Advocate Magazine](http://oakcliff.advocatemag.com)  
 Dallas, Texas  
 2011 - 2012  
 * Produced weekly multimedia videos for Advocate’s hyper-local, monthly print and online magazines that cover the five major neighborhoods of Dallas.   
