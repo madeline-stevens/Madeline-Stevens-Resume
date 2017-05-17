@@ -8,7 +8,7 @@ stevensm1987@gmail.com
 [GitHub](https://github.com/madhubs)  
 Seattle, Washington  
 
-=======================
+
 PROFESSIONAL EXPERIENCE  
 **Apple Creative Trainer**  
 Apple Retail Stores     
@@ -40,7 +40,7 @@ Dallas, Texas
 * Produced weekly multimedia videos for Advocate’s hyper-local, monthly print and online magazines that cover the five major neighborhoods of Dallas.   
 * Continue to maintain relationships with my editor, Keri Mitchell, and photo editor, Can Turkyilmaz.  
 
-=========
+
 EDUCATION   
 **Western Washington University**    
 Bachelor of Arts  
@@ -49,14 +49,13 @@ Bellingham, Washington
 * Major in Journalism, Visual Journalism Sequence  
 *  Minor in Sociology  
 
-=================================
+
 CONTINUING EDUCATION AND TRAINING  
 **Active member of Seattle city and town hall meetings**    
 Coucilmember Kshama Sawant  
 Seattle, Washington  
 * Taking part in Sawant's Build 1,000 Homes Initiative  
   
-
 **Volunteer events with Apple**   
 Apple Retail Volunteer  
 Seattle, Washington  
