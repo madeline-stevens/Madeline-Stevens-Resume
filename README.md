@@ -16,6 +16,7 @@ Sage - A mentor/mentee networking app built during TUNE’s 24 hour WE HACK hack
 [github.com/Makillya/WeHack2017](github.com/Makillya/WeHack2017)
 
 The front-end is built with JavaScript, HTML, and Sass. The back-end is built with Python and Django. 
+
 API Supply - A database of popular APIs with a list of useful specs for each. 
 [github.com/Lonewalker72/API_Supply](github.com/Lonewalker72/API_Supply)
 This is a back-end only app built using Node.js, Express, MongoDB, Mongoose and mLabs. The back-end server responds to HTTP requests.
