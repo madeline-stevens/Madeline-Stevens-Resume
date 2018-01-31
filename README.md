@@ -24,7 +24,7 @@ The front-end is built with JavaScript, HTML, and Sass. The back-end is built wi
 This is a back-end only app built using Node.js, Express, MongoDB, Mongoose and mLabs. The back-end server responds to HTTP requests.
 
 **Project Valor** - A Veteran Affairs Medical facilities locator app.
-projectvalor.herokuapp.com
+[projectvalor.herokuapp.com](projectvalor.herokuapp.com)
 
 This service app was built using the Google Maps API and JavaScript. A user can locate their nearest Veteran Affairs hospital and view average wait times for different medical services.
 
