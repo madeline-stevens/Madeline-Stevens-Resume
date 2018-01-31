@@ -1,6 +1,5 @@
 
 # **Madeline Rose Stevens**
--------------------------
 
 (206)498-4786    
 madelinerstevens@me.com   
