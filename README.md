@@ -4,7 +4,7 @@
 (206)498-4786    
 madelinerstevens@me.com   
 [madelinerstevens.com](www.madelinerstevens.com)  
-[GitHub](https://github.com/madhubs)  
+[github.com/madhubs](https://github.com/madhubs)  
 Seattle, Washington  
 
 
@@ -13,7 +13,9 @@ I am a full-stack Software Developer with a passion for making technology more i
 **PROJECTS**
 
 Sage - A mentor/mentee networking app built during TUNE’s 24 hour WE HACK hackathon. 
+
 github.com/Makillya/WeHack2017
+
 The front-end is built with JavaScript, HTML, and Sass. The back-end is built with Python and Django. 
 API Supply - A database of popular APIs with a list of useful specs for each. 
 github.com/Lonewalker72/API_Supply
