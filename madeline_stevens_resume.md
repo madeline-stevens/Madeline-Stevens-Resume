@@ -58,10 +58,10 @@ Co-teaching 10 middle school students in HTML, CSS, and github to create static,
 
 Apple Retail Stores | Dallas, TX and Seattle, WA | Nov 2011 - May 2017
 
-Consistently the highest performing trainer and technician out of a team of 14.
-Facilitated Swift Playgrounds coding workshops.
-Trained my peers in new Apple software within a positive feedback culture.
-Organized private workshops for business customers by coordinating with multiple teams.
+* Consistently the highest performing trainer and technician out of a team of 14.
+* Facilitated Swift Playgrounds coding workshops.
+* Trained my peers in new Apple software within a positive feedback culture.
+* Organized private workshops for business customers by coordinating with multiple teams.
 
 ### EDUCATION
 
