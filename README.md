@@ -1,79 +1,53 @@
+Madeline Stevens 
+(206) 498-4786 | Seattle, WA |  madelinerstevens@me.com 
+www.madelinerstevens.com | github.com/madhubs | linkedin.com/in/madelinestevens
+ 
 
-**Madeline Rose Stevens** 
--------------------------
+I am a full-stack Software Developer with a passion for making technology more inclusive and enabling teams to think with an accessibility-first mindset. 
 
-(206)498-4786    
-stevensm1987@gmail.com  
-[madelinerstevens.com](www.madelinerstevens.com)  
-[GitHub](https://github.com/madhubs)  
-Seattle, Washington  
+PROJECTS
 
+Sage - A mentor/mentee networking app built during TUNE’s 24 hour WE HACK hackathon. 
+github.com/Makillya/WeHack2017
+The front-end is built with JavaScript, HTML, and Sass. The back-end is built with Python and Django. 
+API Supply - A database of popular APIs with a list of useful specs for each. 
+github.com/Lonewalker72/API_Supply
+This is a back-end only app built using Node.js, Express, MongoDB, Mongoose and mLabs. The back-end server responds to HTTP requests.
 
-PROFESSIONAL EXPERIENCE  
-**Apple Creative Trainer**  
-Apple Retail Stores     
-Dallas, Texas and Seattle, Washington  
-2011 - Present   
-* Training my peers in new Apple software and store processes within a positive feedback culture.
-* Organizing private workshops for business customers which involves coordinating with the scheduling and business teams.
-* Consistently the highest performing trainer, out of a team of 14, as ranked by customers attending workshops, one on one training and technical support.
-* Chosen to be a Global Volunteer Champion to help organize volunteer events for market employees.  
-* Hand-selected by my peers to conduct business workshops, field trips, and bigger education events like ConnectEd, a President Obama initiative.  
+Project Valor - A Veteran Affairs Medical facilities locator app.
+projectvalor.herokuapp.com/
+This service app was built using the Google Maps API and JavaScript. A user can locate their nearest Veteran Affairs hospital and view average wait times for different medical services.
 
-**Creative Project Manager**   
-Latin and Lean Cookbook with Sandra Fite    
-Dallas, Texas     
-2011 - 2015    
-* Contracted to help create websites and a high-end cookbook for Fite’s multiple projects.    
+Who’s Outside? - A situational single-player game.
+madhubs.github.io/dreamteam/game.html
+A simple logic game with a team of four others using JavaScript, HTML, CSS and JQuery. 
 
-**Reading and Writing Tutor**    
-[Lindsley Park Community School](https://lumineducation.org/schools-lindsley-park/)  
-Dallas, Texas  
-2011 - 2012  
-* Invited to be a writing tutor for six third-graders preparing them for essay entrance exams to other magnet elementary schools.
-* Volunteer reading tutor for two ESL second graders.  
+TECHNICAL SKILLS
 
-**Photography and Multimedia Intern**  
-[Advocate Magazine](http://oakcliff.advocatemag.com)  
-Dallas, Texas  
-2011 - 2012  
-* Produced weekly multimedia videos for Advocate’s hyper-local, monthly print and online magazines that cover the five major neighborhoods of Dallas.   
-* Continue to maintain relationships with my editor, Keri Mitchell, and photo editor, Can Turkyilmaz.  
+JavaScript, HTML5, CSS3, Sass, Git, MVC, SQL, Postgres, jQuery, AJAX, JSON, MongoDB, Express, React, Node.js, TravisCI, Heroku, ARIA.
 
+EXPERIENCE
 
-EDUCATION   
-**Western Washington University**    
-Bachelor of Arts  
-Bellingham, Washington  
-2010  
-* Major in Journalism, Visual Journalism Sequence  
-*  Minor in Sociology  
+Teaching Assistant  
+Code Fellows | Seattle, WA | Nov - Present 
 
+Instructor 
+Holy Family Bilingual School | Seattle, WA | Nov - Present 
 
-CONTINUING EDUCATION AND TRAINING  
-**Active member of Seattle city and town hall meetings**    
-Coucilmember Kshama Sawant  
-Seattle, Washington  
-* Taking part in Sawant's Build 1,000 Homes Initiative  
-  
-**Volunteer events with Apple**   
-Apple Retail Volunteer  
-Seattle, Washington  
-2015 - Present  
-* Washington Trails Association, KEXP radio, Clean Water Foundation, Red Cross (Missing Maps Project).  
+Co-teaching 10 middle school students in HTML, CSS, and github to create static, single page websites.
 
-**Reading Tutor**  
-Roosevelt Elementary    
-Bellingham, Washington   
-2010 - 2011   
-* Volunteer reading coach for 15 second-grade students.  
-* Worked closely with the AmeriCorps supervisor helping to improve the program.  
+Apple Creative Trainer  
+Apple Retail Stores | Dallas, TX and Seattle, WA | Nov 2011 - May 2017
 
-**Youth Counselor**  
-Reach Camp  
-Tacoma, Washington  
-Sept 2010  
+Consistently the highest performing trainer and technician out of a team of 14.
+Facilitated Swift Playgrounds coding workshops.
+Trained my peers in new Apple software within a positive feedback culture.
+Organized private workshops for business customers by coordinating with multiple teams.
 
-**Publicity Manager**  
-Women's Day March 2009  
-Bellingham, Washington  
+EDUCATION
+
+Code Fellows | Seattle, WA | 2017
+Certificate in full-stack JavaScript development 
+
+Western Washington University | Bellingham, WA | 2010
+B.A. in Journalism, Minor in Sociology
