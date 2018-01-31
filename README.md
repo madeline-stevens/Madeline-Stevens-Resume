@@ -1,5 +1,5 @@
 
-**Madeline Rose Stevens** 
+### **Madeline Rose Stevens**
 -------------------------
 
 (206)498-4786    
@@ -50,7 +50,7 @@ Facilitated Swift Playgrounds coding workshops.
 Trained my peers in new Apple software within a positive feedback culture.
 Organized private workshops for business customers by coordinating with multiple teams.
 
-EDUCATION
+**EDUCATION**
 
 Code Fellows | Seattle, WA | 2017
 Certificate in full-stack JavaScript development 
