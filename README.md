@@ -24,11 +24,13 @@ The front-end is built with JavaScript, HTML, and Sass. The back-end is built wi
 This is a back-end only app built using Node.js, Express, MongoDB, Mongoose and mLabs. The back-end server responds to HTTP requests.
 
 **Project Valor** - A Veteran Affairs Medical facilities locator app.
+
 [projectvalor.herokuapp.com](projectvalor.herokuapp.com/)
 
 This service app was built using the Google Maps API and JavaScript. A user can locate their nearest Veteran Affairs hospital and view average wait times for different medical services.
 
 **Who’s Outside?** - A situational single-player game.
+
 [madhubs.github.io/dreamteam/game.html](madhubs.github.io/dreamteam/game.html)
 
 A simple game built with a team of four others using JavaScript, HTML, CSS and JQuery. 
@@ -40,14 +42,17 @@ JavaScript, HTML5, CSS3, Sass, Git, MVC, SQL, Postgres, jQuery, AJAX, JSON, Mong
 ### EXPERIENCE
 
 **Teaching Assistant**
+
 Code Fellows | Seattle, WA | Nov - Present 
 
 **Instructor**
+
 Holy Family Bilingual School | Seattle, WA | Nov - Present 
 
 Co-teaching 10 middle school students in HTML, CSS, and github to create static, single page websites.
 
 **Apple Creative Trainer**
+
 Apple Retail Stores | Dallas, TX and Seattle, WA | Nov 2011 - May 2017
 
 Consistently the highest performing trainer and technician out of a team of 14.
