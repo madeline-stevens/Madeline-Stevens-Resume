@@ -10,7 +10,7 @@ Seattle, Washington
 
 I am a full-stack Software Developer with a passion for making technology more inclusive and enabling teams to think with an accessibility-first mindset. 
 
-## PROJECTS
+### PROJECTS
 
 **Sage** - A mentor/mentee networking app built during TUNE’s 24 hour WE HACK hackathon. 
 [github.com/Makillya/WeHack2017](github.com/Makillya/WeHack2017)
@@ -32,11 +32,11 @@ This service app was built using the Google Maps API and JavaScript. A user can 
 
 A simple game built with a team of four others using JavaScript, HTML, CSS and JQuery. 
 
-## TECHNICAL SKILLS
+### TECHNICAL SKILLS
 
 JavaScript, HTML5, CSS3, Sass, Git, MVC, SQL, Postgres, jQuery, AJAX, JSON, MongoDB, Express, React, Node.js, TravisCI, Heroku, ARIA.
 
-## EXPERIENCE
+### EXPERIENCE
 
 **Teaching Assistant**
 Code Fellows | Seattle, WA | Nov - Present 
@@ -54,7 +54,7 @@ Facilitated Swift Playgrounds coding workshops.
 Trained my peers in new Apple software within a positive feedback culture.
 Organized private workshops for business customers by coordinating with multiple teams.
 
-## EDUCATION
+### EDUCATION
 
 **Code Fellows** | Seattle, WA | 2017
 
