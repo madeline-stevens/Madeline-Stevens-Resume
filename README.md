@@ -1,11 +1,17 @@
-Madeline Stevens 
-(206) 498-4786 | Seattle, WA |  madelinerstevens@me.com 
-www.madelinerstevens.com | github.com/madhubs | linkedin.com/in/madelinestevens
- 
+
+**Madeline Rose Stevens** 
+-------------------------
+
+(206)498-4786    
+madelinerstevens@me.com   
+[madelinerstevens.com](www.madelinerstevens.com)  
+[GitHub](https://github.com/madhubs)  
+Seattle, Washington  
+
 
 I am a full-stack Software Developer with a passion for making technology more inclusive and enabling teams to think with an accessibility-first mindset. 
 
-PROJECTS
+**PROJECTS**
 
 Sage - A mentor/mentee networking app built during TUNE’s 24 hour WE HACK hackathon. 
 github.com/Makillya/WeHack2017
@@ -22,11 +28,11 @@ Who’s Outside? - A situational single-player game.
 madhubs.github.io/dreamteam/game.html
 A simple logic game with a team of four others using JavaScript, HTML, CSS and JQuery. 
 
-TECHNICAL SKILLS
+**TECHNICAL SKILLS**
 
 JavaScript, HTML5, CSS3, Sass, Git, MVC, SQL, Postgres, jQuery, AJAX, JSON, MongoDB, Express, React, Node.js, TravisCI, Heroku, ARIA.
 
-EXPERIENCE
+**EXPERIENCE**
 
 Teaching Assistant  
 Code Fellows | Seattle, WA | Nov - Present 
