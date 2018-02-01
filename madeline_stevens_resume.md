@@ -13,26 +13,19 @@ I am a full-stack Software Developer with a passion for making technology more i
 ### PROJECTS
 
 **Sage** - A mentor/mentee networking app built during TUNE’s 24 hour WE HACK hackathon.  
-[github.com/Makillya/WeHack2017](github.com/Makillya/WeHack2017)
-
+[github.com/Makillya/WeHack2017](github.com/Makillya/WeHack2017)  
 * The front-end of Sage is built with JavaScript, HTML, and Sass. The back-end is built with Python and Django. 
 
 **API Supply** - A database of popular APIs with a list of useful specs for each.  
-
-[github.com/Lonewalker72/API_Supply](github.com/Lonewalker72/API_Supply)
-
+[github.com/Lonewalker72/API_Supply](github.com/Lonewalker72/API_Supply)  
 * This is a back-end only app built using Node.js, Express, MongoDB, Mongoose and mLabs. The back-end server responds to HTTP requests.
 
 **Project Valor** - A Veteran Affairs Medical facilities locator app.  
-
-[projectvalor.herokuapp.com](projectvalor.herokuapp.com)
-
+[projectvalor.herokuapp.com](projectvalor.herokuapp.com)  
 * This service app was built using the Google Maps API and JavaScript. A user can locate their nearest Veteran Affairs hospital and view average wait times for different medical services.
 
-**Who’s Outside?** - A situational single-player game.
-
-[madhubs.github.io/dreamteam/game.html](madhubs.github.io/dreamteam/game.html)
-
+**Who’s Outside?** - A situational single-player game.  
+[madhubs.github.io/dreamteam/game.html](madhubs.github.io/dreamteam/game.html)  
 * A simple game built with a team of four others using JavaScript, HTML, CSS and JQuery. 
 
 ### TECHNICAL TOOL KIT 
@@ -41,22 +34,16 @@ JavaScript, HTML5, CSS3, Sass, Git, MVC, SQL, Postgres, jQuery, AJAX, JSON, Mong
 
 ### EXPERIENCE
 
-**Teaching Assistant**
+**Teaching Assistant**  
+Code Fellows | Seattle, WA | Nov - Feb  
+* Intermediate JavaScript Teaching Assistant to 23 students learning jQuery, SQL, Postgres, Node.js, RESTful APIs and Git.
 
-Code Fellows | Seattle, WA | Nov - Feb 
+**Instructor**  
+Holy Family Bilingual School | Seattle, WA | Nov - Present   
+* Co-teaching 10 middle school students in HTML, CSS, and github to create static, single page websites.
 
-Intermediate JavaScript Teaching Assistant to 23 students learning jQuery, SQL, Postgres, Node.js, RESTful APIs and Git.
-
-**Instructor**
-
-Holy Family Bilingual School | Seattle, WA | Nov - Present 
-
-Co-teaching 10 middle school students in HTML, CSS, and github to create static, single page websites.
-
-**Apple Creative Trainer**
-
-Apple Retail Stores | Dallas, TX and Seattle, WA | Nov 2011 - May 2017
-
+**Apple Creative Trainer**  
+Apple Retail Stores | Dallas, TX and Seattle, WA | Nov 2011 - May 2017  
 * Consistently the highest performing trainer and technician out of a team of 14.
 * Facilitated Swift Playgrounds coding workshops.
 * Trained my peers in new Apple software within a positive feedback culture.
@@ -64,10 +51,8 @@ Apple Retail Stores | Dallas, TX and Seattle, WA | Nov 2011 - May 2017
 
 ### EDUCATION
 
-**Code Fellows** | Seattle, WA | 2017
-
+**Code Fellows** | Seattle, WA | 2017  
 Certificate in full-stack JavaScript development 
 
-**Western Washington University** | Bellingham, WA | 2010
-
+**Western Washington University** | Bellingham, WA | 2010  
 B.A. in Journalism, Minor in Sociology
