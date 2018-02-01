@@ -36,7 +36,7 @@ JavaScript, HTML5, CSS3, Sass, Git, MVC, SQL, Postgres, jQuery, AJAX, JSON, Mong
 
 **Teaching Assistant**  
 Code Fellows | Seattle, WA | Nov - Feb  
-* Intermediate JavaScript Teaching Assistant to 23 students learning jQuery, SQL, Postgres, Node.js, RESTful APIs and Git.
+* Intermediate JavaScript Teaching Assistant to 23 students learning jQuery, SQL, Postgres, Node.js, RESTful APIs, Git.
 
 **Instructor**  
 Holy Family Bilingual School | Seattle, WA | Nov - Present   
