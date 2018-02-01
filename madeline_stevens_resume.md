@@ -17,13 +17,13 @@ I am a full-stack Software Developer with a passion for making technology more i
 
 * The front-end of Sage is built with JavaScript, HTML, and Sass. The back-end is built with Python and Django. 
 
-**API Supply** - A database of popular APIs with a list of useful specs for each.
+**API Supply** - A database of popular APIs with a list of useful specs for each.  
 
 [github.com/Lonewalker72/API_Supply](github.com/Lonewalker72/API_Supply)
 
 * This is a back-end only app built using Node.js, Express, MongoDB, Mongoose and mLabs. The back-end server responds to HTTP requests.
 
-**Project Valor** - A Veteran Affairs Medical facilities locator app.
+**Project Valor** - A Veteran Affairs Medical facilities locator app.  
 
 [projectvalor.herokuapp.com](projectvalor.herokuapp.com)
 
