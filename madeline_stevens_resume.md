@@ -36,7 +36,7 @@ I am a full-stack Software Developer with a passion for making technology more i
 
 * A simple game built with a team of four others using JavaScript, HTML, CSS and JQuery. 
 
-### TECHNICAL SKILLS
+### TECHNICAL TOOL KIT 
 
 JavaScript, HTML5, CSS3, Sass, Git, MVC, SQL, Postgres, jQuery, AJAX, JSON, MongoDB, Express, React, Node.js, TravisCI, Heroku, ARIA.
 
