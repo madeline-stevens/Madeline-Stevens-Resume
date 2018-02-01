@@ -12,8 +12,7 @@ I am a full-stack Software Developer with a passion for making technology more i
 
 ### PROJECTS
 
-**Sage** - A mentor/mentee networking app built during TUNE’s 24 hour WE HACK hackathon.
-
+**Sage** - A mentor/mentee networking app built during TUNE’s 24 hour WE HACK hackathon.  
 [github.com/Makillya/WeHack2017](github.com/Makillya/WeHack2017)
 
 * The front-end of Sage is built with JavaScript, HTML, and Sass. The back-end is built with Python and Django. 
