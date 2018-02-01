@@ -24,9 +24,9 @@ I am a full-stack Software Developer with a passion for making technology more i
 [projectvalor.herokuapp.com](projectvalor.herokuapp.com)  
 * This service app was built using the Google Maps API and JavaScript. A user can locate their nearest Veteran Affairs hospital and view average wait times for different medical services.
 
-**Who’s Outside?** - A situational single-player game.  
+**Who’s Outside?** - A situational single-player game- help guide Sammie out of the haunted house.   
 [madhubs.github.io/dreamteam/game.html](madhubs.github.io/dreamteam/game.html)  
-* A simple game built with a team of four others using JavaScript, HTML, CSS and JQuery. 
+* A game built with a team of four others using JavaScript, HTML, CSS and JQuery. 
 
 ### TECHNICAL TOOL KIT 
 
