@@ -8,7 +8,7 @@ madelinerstevens@me.com
 Seattle, Washington  
 
 
-I am a full-stack Software Developer with a passion for making technology more inclusive and enabling teams to think with an accessibility-first mindset. 
+I am a full-stack software developer with a passion for making technology more inclusive and enabling teams to think with an accessibility-first mindset. 
 
 ### PROJECTS
 
