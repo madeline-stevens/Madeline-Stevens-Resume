@@ -12,6 +12,11 @@ I am a full-stack Software Developer with a passion for making technology more i
 
 ### PROJECTS
 
+**Coding Falcons** - Providing information to students and parents about our code camp. 
+[http://codingfalcons.herokuapp.com](codingfalcons.herokuapp.com)
+[https://github.com/madhubs/coding-falcons](https://github.com/madhubs/coding-falcons)
+* Coding Falcons is the code camp I founded with my business partner. This site is to keep parents and students informed of camp dates, scholarship opportunities, and photos from camp. 
+
 **Sage** - A mentor/mentee networking app built during TUNE’s 24 hour WE HACK hackathon.  
 [github.com/Makillya/WeHack2017](github.com/Makillya/WeHack2017)  
 * The front-end of Sage is built with JavaScript, HTML, and Sass. The back-end is built with Python and Django. 
@@ -34,13 +39,14 @@ JavaScript, HTML5, CSS3, Sass, Git, MVC, SQL, Postgres, jQuery, AJAX, JSON, Mong
 
 ### EXPERIENCE
 
+**Co-Founder**  
+Coding Falcons code camp | Seattle, WA | Nov - Present   
+* Co-teaching 10 middle school students in HTML, CSS, and github to create static, single page websites.
+* Launching our first, week long summer code camp to include javascript. 
+
 **Teaching Assistant**  
 Code Fellows | Seattle, WA | Nov - Feb  
 * Intermediate JavaScript Teaching Assistant to 23 students learning jQuery, SQL, Postgres, Node.js, RESTful APIs, Git.
-
-**Instructor**  
-Holy Family Bilingual School | Seattle, WA | Nov - Present   
-* Co-teaching 10 middle school students in HTML, CSS, and github to create static, single page websites.
 
 **Apple Creative Trainer**  
 Apple Retail Stores | Dallas, TX and Seattle, WA | Nov 2011 - May 2017  
