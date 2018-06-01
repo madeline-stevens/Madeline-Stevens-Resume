@@ -39,10 +39,10 @@ JavaScript, HTML5, CSS3, Sass, Git, MVC, SQL, Postgres, jQuery, AJAX, JSON, Mong
 
 ### EXPERIENCE
 
-**Co-Founder**  
+**Instructor/Co-Founder**  
 Coding Falcons code camp | Seattle, WA | Nov - Present   
 * Co-teaching 10 middle school students in HTML, CSS, and github to create static, single page websites.
-* Launching our first, week long summer code camp to include javascript. 
+* Launching our first, week long summer code camp teaching HTML, CSS, and JavaScript. 
 
 **Teaching Assistant**  
 Code Fellows | Seattle, WA | Nov - Feb  
