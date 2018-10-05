@@ -12,7 +12,7 @@ I am a full-stack software developer with a passion for making technology more i
 
 ### PROJECTS
 
-**Coding Falcons** - Providing information to students and parents about our code camp. 
+**Coding Falcons** - Providing information to students and parents about our code camp.   
 [codingfalcons.herokuapp.com](http://codingfalcons.herokuapp.com)   
 [Screen recording of this app with aXe tutorial](https://www.youtube.com/watch?v=plLx3T_nh4c&feature=youtu.be)   
 * Coding Falcons is a school and summer JavaScript code camp for middle schoolers that I helped co-found in 2017. 
