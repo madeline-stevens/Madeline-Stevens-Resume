@@ -29,9 +29,6 @@ I am a full-stack software developer with a passion for making technology more i
 [projectvalor.herokuapp.com](projectvalor.herokuapp.com)  
 * This service app was built using the Google Maps API and JavaScript. A user can locate their nearest Veteran Affairs hospital and view average wait times for different medical services.
 
-**Who’s Outside?** - A situational single-player game- help guide Sammie out of the haunted house.   
-[madhubs.github.io/dreamteam/game.html](madhubs.github.io/dreamteam/game.html)  
-* A game built with a team of four others using JavaScript, HTML, CSS and JQuery. 
 
 ### TECHNICAL TOOL KIT 
 
@@ -39,7 +36,10 @@ JavaScript, HTML5, CSS3, Sass, Git, MVC, SQL, Postgres, jQuery, AJAX, JSON, Mong
 
 ### EXPERIENCE
 
-**Instructor/Co-Founder**  
+**Teaching Assistant** 
+University of Washington’s JavaScript Certificate Program | Seattle, WA | Sept - Present 
+
+**CTO/Instructor**  
 Coding Falcons code camp | Seattle, WA | Nov - Present   
 * Co-teaching 10 middle school students in HTML, CSS, and github to create static, single page websites.
 * Launching our first, week long summer code camp teaching HTML, CSS, and JavaScript. 
@@ -61,4 +61,4 @@ Apple Retail Stores | Dallas, TX and Seattle, WA | Nov 2011 - May 2017
 Certificate in full-stack JavaScript development 
 
 **Western Washington University** | Bellingham, WA | 2010  
-B.A. in Journalism, Minor in Sociology
+B.A. Journalism, Visual Journalism 
