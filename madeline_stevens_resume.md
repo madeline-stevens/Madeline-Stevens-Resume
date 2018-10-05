@@ -12,18 +12,18 @@ I am a full-stack software developer with a passion for making technology more i
 
 ### PROJECTS
 
-**Coding Falcons**
+**Coding Falcons**  
 [codingfalcons.herokuapp.com](http://codingfalcons.herokuapp.com)   
 [Screen recording of this app with aXe tutorial](https://www.youtube.com/watch?v=plLx3T_nh4c&feature=youtu.be)
 * Coding Falcons is a school and summer JavaScript code camp for middle schoolers that I helped co-found in 2017. 
 * This JavaScript, Express, Bootstrap, jQuery, ARIA single page app delivers camp information to families. 
 
-**API Supply** 
+**API Supply**   
 [github.com/Lonewalker72/API_Supply](github.com/Lonewalker72/API_Supply)
 * This RESTful API is a collection of useful APIs. The goal is for users to view API properties (key wait times, request limitations, doc ratings) to make preparing for API based projects more efficient. It's an API of APIs!
 * This backend only app was built using Node.js, Express, MongoDB, Mongoose and mLabs. API Supply responds to HTTP requests to return different API records from our database. 
 
-**Project Valor**  
+**Project Valor**    
 [projectvalor.herokuapp.com](projectvalor.herokuapp.com)  
 *  A Veteran Affairs Medical facilities locator app for Washington State veterans. The idea is for users to type in their zip code and the three closest VA hospitals are returned. For each county in WA we also have pop ups displaying veteran stats.
 * This service app was built using the Google Maps API, JavaScript, jQuery, Node.js, and Express. 
