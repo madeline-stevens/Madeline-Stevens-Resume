@@ -15,20 +15,18 @@ I am a full-stack software developer with a passion for making technology more i
 **Coding Falcons** - Providing information to students and parents about our code camp. 
 [http://codingfalcons.herokuapp.com](codingfalcons.herokuapp.com)   
 [https://youtu.be/plLx3T_nh4c](Screen recording of this app with aXe tutorial)
-* Coding Falcons is the code camp I founded with my business partner. This site is to keep parents and students informed of camp dates, scholarship opportunities, and photos from camp. 
-
-**Sage** - A mentor/mentee networking app built during TUNE’s 24 hour WE HACK hackathon.  
-[github.com/Makillya/WeHack2017](github.com/Makillya/WeHack2017)  
-* The front-end of Sage is built with JavaScript, HTML, and Sass. The back-end is built with Python and Django. 
+* Coding Falcons is a school and summer JavaScript code camp for middle schoolers that I helped co-found in 2017. 
+* This JavaScript, Express, Bootstrap, jQuery, ARIA single page app delivers camp information to families. 
 
 **API Supply** - A database of popular APIs with a list of useful specs for each.  
 [github.com/Lonewalker72/API_Supply](github.com/Lonewalker72/API_Supply)  
-* This is a back-end only app built using Node.js, Express, MongoDB, Mongoose and mLabs. The back-end server responds to HTTP requests.
+* This RESTful API is a collection of useful APIs. The goal is for users to view API properties (key wait times, request limitations, doc ratings) to make preparing for API based projects more efficient. It's an API of APIs!
+* This backend only app was built using Node.js, Express, MongoDB, Mongoose and mLabs. API Supply responds to HTTP requests to return different API records from our database. 
 
 **Project Valor** - A Veteran Affairs Medical facilities locator app.  
 [projectvalor.herokuapp.com](projectvalor.herokuapp.com)  
-* This service app was built using the Google Maps API and JavaScript. A user can locate their nearest Veteran Affairs hospital and view average wait times for different medical services.
-
+*  A Veteran Affairs Medical facilities locator app for Washington State veterans. The idea is for users to type in their zip code and the three closest VA hospitals are returned. For each county in WA we also have pop ups displaying veteran stats.
+* This service app was built using the Google Maps API, JavaScript, jQuery, Node.js, and Express. 
 
 ### TECHNICAL TOOL KIT 
 
