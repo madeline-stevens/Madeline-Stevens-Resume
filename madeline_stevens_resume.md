@@ -5,7 +5,7 @@
 madelinerstevens@me.com   
 [www.madelinerstevens.com](www.madelinerstevens.com)  
 [github.com/madhubs](https://github.com/madhubs)  
-Seattle, Washington  
+Seattle, WA  
 
 
 I am a full-stack software developer with a passion for making technology more inclusive and enabling teams to think with an accessibility-first mindset. 
